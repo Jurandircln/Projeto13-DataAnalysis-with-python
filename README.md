@@ -1,2 +1,4 @@
 # Projeto13-DataAnalysis-with-python
 Neste projeto trabalhamos em atividades de pré-processamento de dados de texto extraídos de um Data Lake que será criado com um banco de dados NoSQL, o MongoDB.
+Toda empresa que tem presença na internet pode estar interessada em extrair insights de  comentários  de  usuários  sobre  seus  produtos  ou  serviços,  sobre  concorrentes,  sobre  o mercado ou sobre suas próprias preferências.
+Neste  projeto  teremos  em  mãos  dados  de  texto  simulando  comentários  de  usuários. Dados  de  texto  são  dados  em  formato  não  estruturado  e  seria  muito  difícil  usar  um  Data Warehouse para armazenar os dados e realizar análise. Por essa razão, usaremos um Data Lake, onde os dados serão carregados em seu formato bruto e então faremos  o pré-processamento dos dados em tempo deanálise para entregar insights aos tomadores de decisão.
